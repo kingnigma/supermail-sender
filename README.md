@@ -1,4 +1,15 @@
-# Mass Mail
+# SuperMailer
+
+SuperMailer - Laravel Web Application
+
+## Author
+
+**Mathew Kings**
+
+🌐 Portfolio: [mkportfolio.crestdigico.com](https://mkportfolio.crestdigico.com)  
+💼 LinkedIn: [linkedin.com/in/mathew-kings](https://linkedin.com/in/mathew-kings)  
+🐦 Twitter: [@mathewkings9](https://twitter.com/mathewkings9)  
+📧 Email: [mk@crestdigico.com](mailto:mk@crestdigico.com)
 
 A comprehensive web application for generating and managing email campaigns with user authentication, advanced customization options, and batch processing capabilities.
 
@@ -80,14 +91,3 @@ For production deployment, ensure proper web server configuration (e.g., Apache/
 ## Hosted Version
 
 Access the live application at: [https://cestdigico.com/supermailer](https://cestdigico.com/supermailer)
-
-## Author
-
-**Mathew Kings**
-
-🌐 Portfolio: [mkportfolio.crestdigico.com](https://mkportfolio.crestdigico.com)  
-💼 LinkedIn: [linkedin.com/in/mathew-kings](https://linkedin.com/in/mathew-kings)  
-🐦 Twitter: [@mathewkings9](https://twitter.com/mathewkings9)  
-📧 Email: [mk@crestdigico.com](mailto:mk@crestdigico.com)
-
-A comprehensive web application for generating and managing QR codes and barcodes with user authentication, advanced customization options, and batch processing capabilities.
